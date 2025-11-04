@@ -4,7 +4,7 @@
 **Project Title:** Automated Blue-Green Deployment with Docker and NGINX  
 **Stage:** DevOps Stage 1 — Deployment Automation
 
----
+
 
 ## 📘 Overview
 
